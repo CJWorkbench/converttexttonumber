@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-17 19:38+0000\n"
+"POT-Creation-Date: 2020-02-18 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -20,40 +20,40 @@ msgstr ""
 "Generated-By: Babel 2.8.0\n"
 
 msgid "_spec.name"
-msgstr ""
+msgstr "Μετατροπή σε αριθμούς"
 
 msgid "_spec.description"
-msgstr ""
+msgstr "Μετατροπή κειμένου σε αριθμούς."
 
 msgid "_spec.parameters.input_number_type.name"
 msgstr ""
 
 msgid "_spec.parameters.input_number_type.options.any.label"
-msgstr ""
+msgstr "Οποιοσδηποτε αριθμός"
 
 msgid "_spec.parameters.input_number_type.options.int.label"
-msgstr ""
+msgstr "Οποιοσδήποτε ακέραιος"
 
 msgid "_spec.parameters.input_number_type.options.float.label"
-msgstr ""
+msgstr "Οποιοσδήποτε δεκαδικός"
 
 msgid "_spec.parameters.input_locale.name"
-msgstr ""
+msgstr "Μορφή αριθμών προς μετατροπή"
 
 msgid "_spec.parameters.input_locale.options.us.label"
-msgstr ""
+msgstr "ΗΠΑ: 1,500.00"
 
 msgid "_spec.parameters.input_locale.options.eu.label"
-msgstr ""
+msgstr "Ευρώπη: 1.500,00"
 
 msgid "_spec.parameters.extract.name"
-msgstr ""
+msgstr "Βρείτε αριθμούς στο κείμενο"
 
 msgid "_spec.parameters.error_means_null.name"
-msgstr ""
+msgstr "Μετατροπή μη αριθμών σε κενό"
 
 msgid "_spec.parameters.output_format.name"
-msgstr ""
+msgstr "Εμφάνιση ως"
 
 #: converttexttonumber.py:109
 msgid "ErrorCount.message"
