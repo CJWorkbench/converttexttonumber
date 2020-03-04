@@ -26,7 +26,7 @@ msgid "_spec.description"
 msgstr "Μετατροπή κειμένου σε αριθμούς."
 
 msgid "_spec.parameters.input_number_type.name"
-msgstr ""
+msgstr "Ακέραιος ή δεκαδικός"
 
 msgid "_spec.parameters.input_number_type.options.any.label"
 msgstr "Οποιοσδηποτε αριθμός"
@@ -57,5 +57,5 @@ msgstr "Εμφάνιση ως"
 
 #: converttexttonumber.py:109
 msgid "ErrorCount.message"
-msgstr ""
+msgstr "Δεν μπορεί να γίνει μετατροπή της τιμής “{a_value}” στη σειρά {a_row} της στήλης “{a_column}”. {n_errors, plural,   one {Υπάρχει # σφάλμα σε {n_columns, plural, other {# στήλες} one {# στήλη}}.}   other {Συνολικά, υπάρχουν # σφάλματα σε {n_columns, plural, other {# στήλες} one {# στήλη}}.} } Επιλέξτε \"Μετατροπή μη αριθμών σε κενό\" για να μετατρεπούν αυτες οι τιμές σε κενά."
 
